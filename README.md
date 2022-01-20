@@ -1,5 +1,10 @@
 ## Olá!! Eu sou o Gui, bora codar?! 😁
 
+Um local para todos! 
+Eu vou dar push em tudo, e assim vocês e eu, vamos ver o quanto eu tenho apreendido, ok?
+
+(dizem os devs mais antigos, que nós sempre apagamos os nossos primeiros repositórios... Espero vencer essa tradição hahaha)
+
 <div align="center">
   <a href="https://github.com/guilhermebencici">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebencici&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
