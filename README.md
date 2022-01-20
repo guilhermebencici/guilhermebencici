@@ -1,9 +1,12 @@
-## Olá!! Eu sou o Gui, bora codar?! 😁
+ Olá!! Eu sou o Gui, bora codar?! 😁
 
-Um local para todos! 
-Eu vou dar push em tudo, e assim vocês e eu, vamos ver o quanto eu tenho apreendido, ok?
+  
+Um local para todos nós apredermos! 🙌
+
+Eu vou dar push em tudo, e com isso, nós vamos ver o quanto eu tenho apreendido e evoluído com o tempo, ok?
 
 (dizem os devs mais antigos, que nós sempre apagamos os nossos primeiros repositórios... Espero vencer essa tradição hahaha)
+ ##
 
 <div align="center">
   <a href="https://github.com/guilhermebencici">
